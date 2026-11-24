@@ -10,7 +10,7 @@ In this directory you will find 2 other files:
 This setup should be similar for all of the exercises. The plain javascript file is where you'll write your code, and the `spec` file contains the tests that verify your code is functional.
 
 Let's look at the spec file first:
-
+1
 ```javascript
 const helloWorld = require('./helloWorld');
 
